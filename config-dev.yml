@@ -1,5 +1,6 @@
 spring:
   info: asdf
-  clock: 13DfAsdfFED
+  clock: 13DfAsdfFE
+  version: 8
 config:
   info: asdfsdfsd
